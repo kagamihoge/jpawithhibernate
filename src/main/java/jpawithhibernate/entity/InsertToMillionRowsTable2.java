@@ -1,4 +1,4 @@
-package jpawitheclipselink.entity;
+package jpawithhibernate.entity;
 
 import java.io.Serializable;
 
